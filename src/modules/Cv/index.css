@@ -1,0 +1,54 @@
+.user-image {
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+}
+
+.left-panel {
+  background: #3D0F00;
+}
+
+.text-primary {
+  color: #FF7246 !important;
+  font-family: Mulish;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 14px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.sub-text{
+  white-space: nowrap;
+  color: #FF7246;
+  font-family: Mulish;
+  text-align: left;
+}
+
+.primary-block {
+  width: 1rem;
+  border-radius: 20%;
+  padding: 0.3rem;
+  margin: 0.3rem;
+  height: 1rem;
+  background: #FF7246;
+}
+
+.blank-block {
+  width: 1rem;
+  border-radius: 20%;
+  padding: 0.3rem;
+  margin: 0.3rem;
+  height: 1rem;
+  background: #DADADA;
+}
+
+.icon {
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+  width: 1.825rem;
+}
+.iconSmall{
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+  width: 1.5rem;
+}
